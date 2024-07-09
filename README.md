@@ -1,7 +1,8 @@
 # Go Game AI Player
 
 This project is a C++ implementation of an AI player for the game of Go, capable of making optimal moves based on the current game state using the minimax algorithm with alpha-beta pruning.
-
+ 
+ [DEMO](https://youtu.be/KDzi_2IvWmc?si=DjLuCIuyhR0z10ta).
 ## Requirements
 
 - C++ compiler (e.g., g++)
